@@ -28,7 +28,7 @@ Jobs listing endpoint
     "type": "job",
     "id": "2",
     "attributes": {
-      "jobsGeID": "199995"
+      "jobsGeID": "199995",
       "title": "Front-End დეველოპერი",
       "publicationDate": "2003-03-14T11:10:10+01:00",
       "expirationDate":  "2003-04-14T11:10:10+01:00",
@@ -92,7 +92,7 @@ Creating jobs resources.
       "type": "job",
       "id": "2",
       "attributes": {
-        "jobsGeID": "199995"
+        "jobsGeID": "199995",
         "title": "Front-End დეველოპერი",
         "publicationDate": "2003-03-14T11:10:10+01:00",
         "expirationDate":  "2003-04-14T11:10:10+01:00",
